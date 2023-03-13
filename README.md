@@ -1,2 +1,2 @@
 # lynxhyper
-https://edidk7.github.io/jorgeportafolio/
+https://edidk7.github.io/lynxhyper/
